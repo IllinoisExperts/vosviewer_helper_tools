@@ -15,7 +15,7 @@ Given these inputs, this shell script will:
 6) Save the results in the thesaurus filename you specified above
 
 Example:
-```bash prep_for_vosviewer.sh sample_research_exported_from_experts.ris sample_author_thesaurus.txt```
+```bash create_author_thesaurus.sh sample_research_exported_from_experts.ris sample_author_thesaurus.txt```
 
 To visualize your research connections VOSViewer: 
 1) Run the shell script. 
