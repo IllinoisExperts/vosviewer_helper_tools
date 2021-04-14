@@ -10,6 +10,6 @@
 ## 5) add a tab after each line
 #
 # Example:
-## bash prep_for_vosviewer.sh sample_research_exported_from_experts.ris sample_author_thesaurus.txt
+## bash create_author_thesaurus.sh sample_research_exported_from_experts.ris sample_author_thesaurus.txt
 echo "label	replace by" > "$2"
 grep "^AU  " "$1" | sort | uniq | cut --complement -c 1-6 | sed 's/ *$/\t/' >> "$2"
