@@ -49,6 +49,6 @@ By leaving the last two names alone, they will be ignored by VOSViewer.
 - Unix-based command line tool installed on your local computer. If you have a Mac or Linux computer, this is preinstalled, called the Terminal. If you have a Windows computer, this is not the same as the command prompt or PowerShell. Suggested to install git bash for Windows (https://git-scm.com/downloads).  
 
 ## Resources:
-Shotts, William. The Linux Command Line, 2nd edition. Available digitally from UIUC Library.
-https://explainshell.com/
-https://swcarpentry.github.io/shell-novice/
+- Shotts, William. The Linux Command Line, 2nd edition. Available digitally from UIUC Library.
+- https://explainshell.com/
+- https://swcarpentry.github.io/shell-novice/
