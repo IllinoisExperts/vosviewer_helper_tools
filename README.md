@@ -1,6 +1,6 @@
 # vosviewer_helper_tools
 
-These helper tools enable users to prepare data extracted from Illinois Experts for visualization in the open source software VOS Viewer (https://www.vosviewer.com/)
+These helper tools enable users to prepare data extracted from Illinois Experts for visualization in the open source software VOS Viewer (https://www.vosviewer.com/).
 
 The shell script accepts 2 arguments:
 1) An existing RIS file e.g. sample_research.ris
@@ -43,6 +43,10 @@ Otherunwanted, Person
 
 By adding the same name (Last, First) to each of the 3 variations of that name, VOSViewer will correctly interpret all of these as one person. 
 By leaving the last two names alone, they will be ignored by VOSViewer.
+
+## Tools required: 
+- Notepad++ or similar plain text editor installed on your local computer (https://notepad-plus-plus.org/downloads/). 
+- Unix-based command line tool installed on your local computer. If you have a Mac or Linux computer, this is preinstalled, called the Terminal. If you have a Windows computer, this is not the same as the command prompt or PowerShell. Suggested to install git bash for Windows (https://git-scm.com/downloads).  
 
 ## Resources:
 Shotts, William. The Linux Command Line, 2nd edition. Available digitally from UIUC Library.
