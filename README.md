@@ -2,7 +2,7 @@
 
 These helper tools enable users to prepare data extracted from Illinois Experts for visualization in the open source software VOS Viewer (https://www.vosviewer.com/).
 
-## Begin by navigating to the directory where your RIS file is located. Save the shell script to this location.  
+### Begin by navigating to the directory where your RIS file is located. Save the shell script to this location.  
 
 The shell script accepts 2 arguments:
 1) An existing RIS file e.g. sample_research.ris
@@ -19,7 +19,7 @@ Given these inputs, this shell script will:
 Example:  
 ```bash create_author_thesaurus.sh sample_research_exported_from_experts.ris sample_author_thesaurus.txt```
 
-## After running the shell script, you will need to manually edit the newly-created thesaurus file. 
+### After running the shell script, manually edit the newly-created thesaurus file. 
 
 For each researcher you want listed in the visualization, add their "correct name" variation (how you want the name to appear in the visualization). 
 
