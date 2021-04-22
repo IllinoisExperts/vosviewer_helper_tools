@@ -1,6 +1,8 @@
 # vosviewer_helper_tools
 
 These helper tools enable users to prepare data extracted from Illinois Experts for visualization in the open source software VOS Viewer (https://www.vosviewer.com/).
+- create_author_thesaurus.sh: A bash script available to any Illinois Experts user in preparing data for visualization
+- verify_internal_author_names.py: A python script for use by Experts staff 
 
 ### Begin by navigating to the directory where your RIS file is located. Save the shell script to this location.  
 
